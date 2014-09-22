@@ -6,6 +6,7 @@
     "angular",
     "bootstrap"
   ],
+    "main": "./index.js",
   "homepage": "http://mgcrea.github.io/angular-strap",
   "bugs": "https://github.com/mgcrea/angular-strap/issues",
   "author": {
@@ -15,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mgcrea/angular-strap.git"
+    "url": "https://github.com/bregan/angular-strap.git"
   },
   "licenses": [
     {
